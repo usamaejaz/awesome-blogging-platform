@@ -13,3 +13,6 @@ Premium: $9/year, **not per month!**
 - [Substack](https://substack.com): The subscription network for independent writers and creators
 
 - [Write.as](https://write.as): Start at 6$/month
+
+- [JustBlogged](https://justblogged.com): Start your blog in 2 minutes. No setup needed — sign up, pick a name, start writing.
+Free forever. Pro: $9/month (custom domains, beautiful themes, built-in SEO)
